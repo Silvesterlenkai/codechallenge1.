@@ -1,0 +1,34 @@
+# (Project Name)
+speed detector
+
+#### Date, 2024/03/24
+
+#### By *Silvester Salau*
+
+## Description
+its a project that describes speed detector.
+
+## Installation
+You use git remote add origin to be able to download the documents in the GitHub
+
+## Installation Requirements
+git remote add origin to be able to download the documents in the GitHub
+
+### Installation instruction
+```
+git remote add origin git@github.com:Silvesterlenkai/codechallenge2.git
+
+```
+
+# Live Link
+
+
+## Technologies used
+Javascript
+
+## Support and contact details
+github.com/Silvester-Lenkai
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2024.
